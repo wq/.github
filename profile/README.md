@@ -30,6 +30,8 @@
   <td>
     <p align=center>
       <a href="https://github.com/wq/django-data-wizard"><strong>Django Data Wizard</strong></a>
+      <br>
+      <a href="https://github.com/wq/itertable">IterTable</a>
     </p>
   </td>
   <td>
