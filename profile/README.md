@@ -13,7 +13,7 @@
 </td>
 <td>
 
-# [Django <br> REST <br> Pandas](https://github.com/wq/django-rest-pandas)
+[![Django REST Pandas](https://django-rest-pandas.wq.io/images/django-rest-pandas.svg)](https://github.com/wq/django-rest-pandas)
 
 </td>
 </tr>
